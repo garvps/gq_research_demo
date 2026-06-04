@@ -15,7 +15,6 @@ from groq import Groq
 COLLECTION_NAME = "interviews"
 TOP_K = 4  # number of chunks to retrieve per query
 
-# ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Research Search",
     layout="centered",
@@ -119,15 +118,44 @@ Synthesize the key insight in 3-4 sentences. Be specific — reference what mult
 
 
 # ── UI ────────────────────────────────────────────────────────────────────────
-st.title("🔍 Research Search")
 st.markdown("""
-Built as part of my application to Great Question. This is a semantic search engine
-over user research interview transcripts — type a concept or question, not just a keyword,
-and it retrieves the most relevant moments across all interviews and synthesizes a key insight.
+<div style="border-left: 3px solid #4f8ef7; padding: 18px 24px; margin-bottom: 32px; background: #f8faff; border-radius: 0 8px 8px 0;">
 
-**Try:** *"what did users say about onboarding?"* or *"pricing concerns"* or *"AI trust issues"*
-""")
-st.markdown("Semantic search across user interview transcripts. Ask a question — not just keywords.")
+  <p style="font-size: 0.72rem; font-family: monospace; color: #888; margin: 0 0 8px 0; letter-spacing: 0.08em; text-transform: uppercase;">
+    Application Demo &nbsp;·&nbsp; Great Question AI Engineering Intern
+  </p>
+
+  <h1 style="font-size: 1.5rem; font-weight: 650; color: #0f1117; margin: 0 0 10px 0; line-height: 1.3;">
+    Interview Research Search Engine
+  </h1>
+
+  <p style="font-size: 0.93rem; color: #444; line-height: 1.7; margin: 0 0 16px 0;">
+    Semantic search over user research interview transcripts — type a concept or question,
+    not just a keyword, and the system retrieves the most relevant moments across all interviews
+    and synthesizes a key insight. Built in response to Great Question's stated engineering challenge:
+    <em>semantic search across tens of thousands of interview hours.</em>
+  </p>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
+    <span style="background: #e8f0fe; color: #1a56db; font-size: 0.75rem; padding: 3px 10px; border-radius: 20px; font-family: monospace;">ChromaDB</span>
+    <span style="background: #e8f0fe; color: #1a56db; font-size: 0.75rem; padding: 3px 10px; border-radius: 20px; font-family: monospace;">sentence-transformers</span>
+    <span style="background: #e8f0fe; color: #1a56db; font-size: 0.75rem; padding: 3px 10px; border-radius: 20px; font-family: monospace;">all-MiniLM-L6-v2</span>
+    <span style="background: #e8f0fe; color: #1a56db; font-size: 0.75rem; padding: 3px 10px; border-radius: 20px; font-family: monospace;">Groq · Llama 3.1</span>
+    <span style="background: #e8f0fe; color: #1a56db; font-size: 0.75rem; padding: 3px 10px; border-radius: 20px; font-family: monospace;">Streamlit</span>
+    <span style="background: #e8f0fe; color: #1a56db; font-size: 0.75rem; padding: 3px 10px; border-radius: 20px; font-family: monospace;">Python</span>
+  </div>
+
+  <a href="https://github.com/garvps/gq_research_demo" target="_blank"
+     style="font-size: 0.82rem; color: #4f8ef7; text-decoration: none; font-family: monospace;">
+    &#8599; github.com/garvps/gq_research_demo
+  </a>
+
+</div>
+
+<p style="font-size: 0.88rem; color: #666; margin-bottom: 6px;">
+  Try: <em>"what did users say about onboarding?"</em> &nbsp;·&nbsp; <em>"pricing concerns"</em> &nbsp;·&nbsp; <em>"AI trust issues"</em>
+</p>
+""", unsafe_allow_html=True)
 
 query = st.text_input(
     label="Your question",
