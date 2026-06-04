@@ -1,4 +1,4 @@
-chromadb==0.5.23
+chromadb==1.5.9
 sentence-transformers==3.3.1
 streamlit==1.41.1
 groq==0.13.1
