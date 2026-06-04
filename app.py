@@ -18,7 +18,6 @@ TOP_K = 4  # number of chunks to retrieve per query
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Research Search",
-    page_icon="🔍",
     layout="centered",
 )
 
