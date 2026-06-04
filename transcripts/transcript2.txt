@@ -1,0 +1,25 @@
+Participant: James T. | Role: Engineering Lead | Company: Early-stage startup | Date: March 2025
+
+Interviewer: What made you consider this platform in the first place?
+
+James: We were doing all our user research manually. Like, someone would do an interview, write up notes in Notion, post them in Slack, and then half the team never read them. We needed something centralized.
+
+Interviewer: And how did the pricing conversation go internally?
+
+James: That was honestly the hardest part. We're a twelve-person startup, so every tool decision goes through our CEO. She wanted to know what the ROI was before approving. And it's hard to quantify "we will understand our users better." That's a real problem with research tooling — the value is diffuse.
+
+Interviewer: Did you end up getting approval?
+
+James: We did, but it took three weeks. We had to build a case around how many hours per month we were spending on manual synthesis. Came out to about forty engineer-hours a month on research coordination that could be automated. That math worked.
+
+Interviewer: What has the actual experience been like since adopting it?
+
+James: Better than I expected on the research side. The tagging and synthesis features are genuinely good. The thing I didn't expect was how much engineers started engaging with research they previously ignored. When it's searchable and surfaced automatically, people actually read it.
+
+Interviewer: Any pain points?
+
+James: Pricing transparency. We're on a plan that works now, but I don't have a clear sense of what happens to our costs as we scale the number of interviews we're running. That ambiguity makes me nervous when I'm trying to budget.
+
+Interviewer: If you could change one thing?
+
+James: A clear pricing calculator on the website. Show me: if I run fifty interviews a month with five team members, here's what it costs. Right now I have to email sales to find out, which adds friction and feels like a red flag for a self-serve product.

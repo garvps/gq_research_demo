@@ -1,0 +1,21 @@
+Participant: Marcus W. | Role: Head of Product | Company: Growth-stage B2B | Date: April 2025
+
+Interviewer: How does your team currently share research findings?
+
+Marcus: Before this platform, it was a mess. Someone would run an interview, write a summary, post it in a Slack channel, and it would get buried within forty-eight hours. A month later nobody could find it. We had a whole Notion wiki for research that nobody maintained.
+
+Interviewer: What changed after you started using the platform?
+
+Marcus: The shareable highlight reels were the biggest unlock for us. I can pull three clips from different interviews, stitch them together into a two-minute video, and send it to the CEO. She watches it, hears it in the users' actual voices, and it lands completely differently than a written summary. That changed how leadership engages with research.
+
+Interviewer: Has it changed any product decisions?
+
+Marcus: Directly, yes. We were debating whether to build a Salesforce integration. Nobody was sure if users actually wanted it or if it was just one loud customer. I ran a search across eighteen months of interviews, found eight separate mentions of Salesforce by different users, put together a highlight reel, and we greenlit the integration the next week. The research was sitting there — we just needed a way to surface it.
+
+Interviewer: Are there things about collaboration that still don't work well?
+
+Marcus: Permissions are a bit clunky. I can share individual projects but not create like a curated research library that certain people have access to. We want to give our sales team access to specific insights without opening up everything. That's not possible yet.
+
+Interviewer: If you had to describe the ROI in one sentence?
+
+Marcus: Research used to inform decisions in theory. Now it actually does.

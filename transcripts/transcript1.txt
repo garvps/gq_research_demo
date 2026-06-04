@@ -1,0 +1,25 @@
+Participant: Sarah M. | Role: Product Manager | Company: Mid-size SaaS | Date: March 2025
+
+Interviewer: Can you walk me through what happened the first time you logged into the platform?
+
+Sarah: Sure. So I got the invite link from my colleague, clicked it, and landed on this dashboard that had like eight panels on it. I had no idea what I was supposed to do first. There was no tooltip, no welcome modal, nothing. I just kind of clicked around for a while.
+
+Interviewer: How long did that go on?
+
+Sarah: Probably twenty minutes of clicking before I found the "create project" button. It was in the sidebar, but the sidebar was collapsed by default so I hadn't even noticed it. Once I found that, things made more sense. But those first twenty minutes felt really bad. I almost closed the tab.
+
+Interviewer: Did you reach out to anyone for help?
+
+Sarah: I texted my colleague who invited me. She said "oh yeah the onboarding is rough, just look for the sidebar." Which is kind of a red flag, right? If experienced users are warning new users about the onboarding, something is broken.
+
+Interviewer: What would have made that first experience better?
+
+Sarah: Honestly just one thing — show me what to do first. Even a single prompt like "start by creating a project" would have been enough. I don't need a whole tutorial. Just a pointer.
+
+Interviewer: Have you had any other friction points since that initial login?
+
+Sarah: The onboarding thing is the big one. After I got past it, things were fine. The search is actually really good once you have data in the system. But the first impression matters a lot. I almost didn't come back.
+
+Interviewer: On a scale of one to ten, how would you rate the overall experience?
+
+Sarah: I'd say a six. Mostly because of the onboarding. The core product is probably an eight once you know how to use it. But getting there is a four.

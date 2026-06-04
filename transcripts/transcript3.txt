@@ -1,0 +1,21 @@
+Participant: Priya K. | Role: UX Researcher | Company: Enterprise SaaS | Date: April 2025
+
+Interviewer: You mentioned before the call that search was your favorite feature. Can you tell me more?
+
+Priya: Yes. So in my previous role, finding anything across past research was a nightmare. You'd search Notion, search Confluence, search Slack, and maybe find something. Now I can type a concept — not even a keyword, like an actual idea — and it finds relevant moments across interviews I did six months ago. That's genuinely magical.
+
+Interviewer: Can you give me a specific example?
+
+Priya: Last week a PM asked me if we'd ever gotten feedback about the mobile experience. I hadn't run any mobile-specific research. But I searched for "mobile" and got twelve clips from interviews where users had mentioned checking the app on their phone without being prompted. Synthesized it into a two-paragraph summary in about four minutes. That used to take me an afternoon.
+
+Interviewer: Is there anything about the search that doesn't work well?
+
+Priya: It struggles a bit with jargon that's specific to our industry. If someone says "the workflow builder" — which is what our users call a feature internally — it doesn't always connect that to what we call it in our own documentation. Some tuning needed there.
+
+Interviewer: How has it changed how you work with the product team?
+
+Priya: Hugely. I used to be the bottleneck. PMs would ask questions and I would go manually find the answer over a day or two. Now I can answer research questions in a meeting while they're being asked. That's changed how much they trust and rely on research.
+
+Interviewer: Any features you wish existed that don't?
+
+Priya: I'd love a way to alert me when new interview data comes in that's relevant to an ongoing question. Like I have a standing question about how users think about permissions. If a new interview mentions something about access or sharing, I want to know. Passive monitoring, basically.

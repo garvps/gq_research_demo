@@ -1,0 +1,25 @@
+Participant: Elena R. | Role: Senior Researcher | Company: Consumer tech | Date: May 2025
+
+Interviewer: What's your relationship with the AI features in the platform?
+
+Elena: Cautious but increasingly trusting. When AI summarization first came out I was skeptical. I've been burned by AI tools that hallucinate or oversimplify. So I would always go back and check the original transcript after reading an AI summary. But over the last few months I've caught fewer and fewer errors, and I'm checking less often.
+
+Interviewer: What built that trust?
+
+Elena: Accuracy on quotes. When it surfaces a clip and attributes a quote to a specific person at a specific timestamp, and I go check — it's right. Every time. That seems basic, but it matters. If it started misattributing things, I'd lose trust immediately.
+
+Interviewer: Are there AI features you don't trust or don't use?
+
+Elena: The thematic clustering is still hit or miss. It groups interview clips into themes automatically, but sometimes the groupings feel arbitrary. Like it'll put a clip about loading speed and a clip about search responsiveness into different buckets when they're clearly the same underlying complaint — performance. I end up re-clustering manually.
+
+Interviewer: How do you use the AI synthesis outputs with stakeholders?
+
+Elena: I always present them as "here's what the AI found, here's what I found when I checked." That framing helps. Stakeholders know I've validated it, which matters because there's still a lot of AI skepticism at the executive level at our company.
+
+Interviewer: What would make you trust the AI features more?
+
+Elena: Confidence scores. If the AI surfaces a theme and tells me it found it in twenty-three out of thirty interviews with high consistency, versus found it in four with low consistency — that's useful signal. Right now it presents everything with equal confidence which doesn't reflect reality.
+
+Interviewer: Overall sentiment toward the platform?
+
+Elena: I recommend it to people in my network. That's the real answer. It's not perfect, but it's meaningfully better than anything else I've used, and it's getting better.
