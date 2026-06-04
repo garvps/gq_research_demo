@@ -121,6 +121,13 @@ Synthesize the key insight in 3-4 sentences. Be specific — reference what mult
 
 # ── UI ────────────────────────────────────────────────────────────────────────
 st.title("🔍 Research Search")
+st.markdown("""
+Built as part of my application to Great Question. This is a semantic search engine
+over user research interview transcripts — type a concept or question, not just a keyword,
+and it retrieves the most relevant moments across all interviews and synthesizes a key insight.
+
+**Try:** *"what did users say about onboarding?"* or *"pricing concerns"* or *"AI trust issues"*
+""")
 st.markdown("Semantic search across user interview transcripts. Ask a question — not just keywords.")
 
 query = st.text_input(
